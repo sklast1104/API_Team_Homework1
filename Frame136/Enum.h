@@ -1,0 +1,3 @@
+#pragma once
+
+enum OBJID { OBJ_PLAYER, OBJ_BULLET, OBJ_MONSTER, OBJ_MOUSE, OBJ_END };
